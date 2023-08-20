@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Rezayi</h1>
+# Ali Rezayi
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/6PUE1PAsXQUAAAAd/scaler-create-impact.gif">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<h3 align="left">Contact with me:</h3>
+### Contact with me
 <p align="left">                                    
 <a href="https://t.me/AlieRezayi" target="blank">
   <img 
@@ -37,7 +37,7 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -95,6 +95,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
+<br />
+<br />
 
 <p>
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=alierezayi&show_icons=true&locale=en&layout=compact"         alt="alirezayi" />
